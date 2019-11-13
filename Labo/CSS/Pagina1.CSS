@@ -1,13 +1,16 @@
 section.header{
     text-align: center;
-    font-size: 20px;
-    color: red;
+    font-size: 40px;
+
+    color: white;
 }
 section.melding{
     text-align: center;
+    background-color: lightgray;
+    min-height: 100px;
 }
 section.header img{
-    background-attachment: scroll;
+    background-image: ;
 }
 #linkertekst{
     text-align: left;
@@ -24,7 +27,18 @@ section.header img{
     margin-left: 500px;
     margin-right:500px;
 }
+#shop{
+    color: white;
+}
 #shop:hover{
     text-decoration-line: none;
-    color: darkcyan;
+    color: red;
+}
+nav{
+    list-style-type: none;
+    
+}
+.expert{
+    background-image: url(../images/background_project.jpg);
+    min-height: 500px;
 }
