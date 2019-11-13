@@ -1,0 +1,30 @@
+section.header{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+section.melding{
+    text-align: center;
+}
+section.header img{
+    background-attachment: scroll;
+}
+#linkertekst{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 700px;
+}
+#rechtertekst{
+    text-align: left;
+    margin-right: 10px;
+    margin-left: 700px;
+}
+#slot{
+    text-align:center;
+    margin-left: 500px;
+    margin-right:500px;
+}
+#shop:hover{
+    text-decoration-line: none;
+    color: darkcyan;
+}
