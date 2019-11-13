@@ -1,0 +1,44 @@
+section.header{
+    text-align: center;
+    font-size: 40px;
+
+    color: white;
+}
+section.melding{
+    text-align: center;
+    background-color: lightgray;
+    min-height: 100px;
+}
+section.header img{
+    background-image: ;
+}
+#linkertekst{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 700px;
+}
+#rechtertekst{
+    text-align: left;
+    margin-right: 10px;
+    margin-left: 700px;
+}
+#slot{
+    text-align:center;
+    margin-left: 500px;
+    margin-right:500px;
+}
+#shop{
+    color: white;
+}
+#shop:hover{
+    text-decoration-line: none;
+    color: red;
+}
+nav{
+    list-style-type: none;
+    
+}
+.expert{
+    background-image: url(../images/background_project.jpg);
+    min-height: 500px;
+}
